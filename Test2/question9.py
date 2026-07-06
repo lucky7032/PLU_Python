@@ -1,0 +1,10 @@
+from collections import deque
+
+queue = []
+
+queue.append(10)
+queue.append(20)
+queue.append(30)
+queue.append(40)
+
+print("Front Element of the queue:", queue[0])
